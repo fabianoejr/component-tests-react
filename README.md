@@ -1,3 +1,5 @@
+# Projeto destinado ao curso de Automação de Testes de desenvolvimento.
+
 # Component Tests - React Testing Library
 
 ## GitHub Actions
